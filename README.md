@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Greetings! 
-
 📜 I'm Fabio Sousa, a history enthusiast and coding aficionado with a keen interest in studying the evolution and analyzing the nuances of different programming languages.
 
 📚 As a history buff, I love delving into the origins of programming languages, understanding the historical context in which they were developed, and tracing their evolution over time. I find it fascinating to learn how different programming languages have influenced and shaped the field of computer science and software development.
