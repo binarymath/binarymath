@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-Greetings! 📜 I'm [Your Name], a history enthusiast and coding aficionado with a keen interest in studying the evolution and analyzing the nuances of different programming languages.
+Greetings! 📜 I'm Fabio Sousa, a history enthusiast and coding aficionado with a keen interest in studying the evolution and analyzing the nuances of different programming languages.
 
 📚 As a history buff, I love delving into the origins of programming languages, understanding the historical context in which they were developed, and tracing their evolution over time. I find it fascinating to learn how different programming languages have influenced and shaped the field of computer science and software development.
 
@@ -16,4 +15,3 @@ Greetings! 📜 I'm [Your Name], a history enthusiast and coding aficionado with
 🚀 Let's embark on a journey to explore the rich history of programming languages and unlock the mysteries of their evolution together. Feel free to connect with me to discuss, collaborate, and learn from each other!
 
 
--->
