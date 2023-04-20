@@ -13,3 +13,7 @@
 🚀 Let's embark on a journey to explore the rich history of programming languages and unlock the mysteries of their evolution together. Feel free to connect with me to discuss, collaborate, and learn from each other!
 
 
+![Logo Python](https://github.com/binarymath/logos/blob/master/python.png)
+
+
+
