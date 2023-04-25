@@ -12,8 +12,10 @@
 
 🚀 Let's embark on a journey to explore the rich history of programming languages and unlock the mysteries of their evolution together. Feel free to connect with me to discuss, collaborate, and learn from each other!
 
+<hr>
 
 <img src="https://github.com/binarymath/logos/blob/master/python.png" alt="Logo Flask" width="50" height="50"> <img src="https://github.com/binarymath/logos/blob/master/flask-icon.webp" alt="Logo Flask" width="50" height="50">
 
+<hr>
 
 
