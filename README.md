@@ -14,6 +14,7 @@
 
 
 ![Logo Python](https://github.com/binarymath/logos/blob/master/python.png)
+![Logo Flask](https://github.com/binarymath/logos/blob/master/flask-icon.webp)
 
 
 
