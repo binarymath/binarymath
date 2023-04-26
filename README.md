@@ -20,7 +20,7 @@
 
 <hr>
 
-<img src="https://github.com/binarymath/logos/blob/master/C.jpg" alt="Logo C" width="50" height="60"> <img src="https://github.com/binarymath/logos/blob/master/C%2B%2B.png" alt="Logo C++" width="50" height="60">
+<img src="https://github.com/binarymath/logos/blob/master/C.jpg" alt="Logo C" width="65" height="70"> <img src="https://github.com/binarymath/logos/blob/master/C%2B%2B.png" alt="Logo C++" width="50" height="60">
 
 <hr>
 
