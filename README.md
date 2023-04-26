@@ -18,4 +18,10 @@
 
 <hr>
 
+<hr>
+
+<img src=https://github.com/binarymath/logos/blob/master/C.jpg" alt="Logo C" width="50" height="50"> <img src="https://github.com/binarymath/logos/blob/master/C%2B%2B.png" alt="Logo C++" width="50" height="50">
+
+<hr>
+
 
