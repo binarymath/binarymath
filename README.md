@@ -24,5 +24,5 @@
 
 <hr>
 
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?binarymath=<binarymath>)
+[![Binarymath's GitHub stats](https://github-readme-stats.vercel.app/api?username=binarymath)](https://github.com/binarymath/github-readme-stats)
 
