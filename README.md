@@ -24,4 +24,5 @@
 
 <hr>
 
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?binarymath=<binargmmath>)
 
