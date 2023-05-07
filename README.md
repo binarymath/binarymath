@@ -14,7 +14,7 @@
 
 <hr>
 
-<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="50" height="50"> 
+<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="200" height="200"> 
 
 <hr>
 
