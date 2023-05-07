@@ -14,12 +14,12 @@
 
 <hr>
 
-<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="200" height="200"> 
+<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="400" height="400"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarymath&size_weight=0.5&count_weight=0.5)](https://github.com/binarymath)
+
 
 <hr>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarymath&size_weight=0.5&count_weight=0.5)](https://github.com/binarymath)
 
 
