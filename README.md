@@ -14,15 +14,11 @@
 
 <hr>
 
-<img src="https://github.com/binarymath/logos/blob/master/python.png" alt="Logo Flask" width="50" height="50"> <img src="https://github.com/binarymath/logos/blob/master/flask-icon.webp" alt="Logo Flask" width="50" height="50">
+<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="50" height="50"> 
 
 <hr>
 
-<hr>
 
-<img src="https://github.com/binarymath/logos/blob/master/C.jpg" alt="Logo C" width="65" height="70"> <img src="https://github.com/binarymath/logos/blob/master/C%2B%2B.png" alt="Logo C++" width="50" height="60">
-
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarymath&size_weight=0.5&count_weight=0.5)](https://github.com/binarymath)
 
