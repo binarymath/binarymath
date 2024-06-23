@@ -14,12 +14,4 @@
 
 <hr>
 
-<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="290" height="290"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarymath&size_weight=0.5&count_weight=0.5)](https://github.com/binarymath)
-
-
-<hr>
-
-
-
-
-
+<img src="https://github.com/binarymath/pdf_and_api_python/blob/master/img/api_pdf.gif" alt="Projeto Pdf" width="290" height="290">
