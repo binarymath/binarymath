@@ -32,7 +32,7 @@
 ---
 
 ## 🔎 About
-Senior practitioner in **Artificial Intelligence**, **MLOps**, and **Data Engineering**. I design and ship systems that are:
+**Artificial Intelligence**, **MLOps**, and **Data Engineering**. I design and ship systems that are:
 
 - **Reproducible:** deterministic seeds, `pyproject.toml`, Docker/Makefile, versioned data & models.
 - **Observable:** model/infra metrics, drift checks, latency & cost budgets.
